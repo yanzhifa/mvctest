@@ -1,2 +1,0 @@
-# mvctest
-SpringMVC Simple Demo
